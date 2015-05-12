@@ -1,2 +1,2 @@
 # micoscopic-chat
-This is chat version of Discover Meteor Book Microscope.
+This is a chat version of the Discover Meteor Book Microscope.
